@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "Domi ♡ Kiki wedding website"
+title: "Domi ♡ Kiki wedding"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-14.06.2025 | Bardejov, Slovakia
+14.06.2025
 ======
-This website will provide instructions how to get to the venue and other useful information for guests, especially those travelling from abroad.
-
 > This website is under reconstruction. 
 > Please, visit it again for more info.
+
+This website will provide instructions how to get to the venue and other useful information for guests, especially those travelling from abroad.
 
 General Information
 ======
