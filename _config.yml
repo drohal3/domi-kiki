@@ -238,6 +238,11 @@ defaults:
   - scope:
       path: ""
       type: travel
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _program
   - scope:
       path: ""
