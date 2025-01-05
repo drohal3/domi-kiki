@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Domi ♡ Kiki"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -212,6 +212,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  program:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -228,6 +231,15 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # _program
+  - scope:
+      path: ""
+      type: program
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _posts
   - scope:
       path: ""
