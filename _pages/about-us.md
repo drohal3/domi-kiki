@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-<img src='/images/babydomikiki.jpg'>
+<img src='https://drohal3.github.io/domi-kiki/images/babydomikiki.jpg'>
