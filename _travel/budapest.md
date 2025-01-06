@@ -1,10 +1,10 @@
 ---
-title: "Krakow"
-excerpt: "The most convenient and fastest way to reach Bardejov from Helsinki."
+title: "Budapest"
+excerpt: "We never tried"
 collection: travel
 ---
 
-Traveling through Krakow is the fastest and most convenient way to reach Bardejov from Helsinki.
+We never tried this path.
 
 Flight tickets (Helsinki <-> Budapest)
 ------
@@ -26,6 +26,10 @@ Košice/Prešov <-> Bardejov
 ------
 Do not buy tickets in advance!
 
+Use <a href="https://cp.sk/">cp.sk</a> (Slovak language only) to find connections from Prešov or Košice to Bardejov.
+2 main options are:
+- <strong>local trains:</strong> you can buy tickets at the train stations or online (<a href="https://www.zssk.sk/en/">ZSSK</a>)
+- <strong>local buses (SAD):</strong> buy tickets from driver (cash or maybe also payment card)
 
 > more info about places to visit will be added later
 
