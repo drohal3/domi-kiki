@@ -29,3 +29,5 @@ Stay informed
 ------
 [Join WhatsApp Group](https://chat.whatsapp.com/DeEAWt3b2Zj55ch5HZAHvb)
 
+> Do not forget to check the subpages, especially the "Getting there" part with a few tips how to reach Bardejov.
+
