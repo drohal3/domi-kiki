@@ -16,7 +16,10 @@ Price: ~ 12-20€
 
 Route from train station tunnel to the bus station:
 
-![route](../../images/krakow_video.mp4)
+<video width="320" height="240" controls>
+  <source src="https://drohal3.github.io/domi-kiki/images/krakow_video.mp4" type="video/mp4">
+</video>
+
 
 Restaurants
 ------
@@ -31,6 +34,8 @@ Less traditional food. Good quality for affordable price. They also offer discou
 **Dobra Pączkarnia** ([Google maps](https://maps.app.goo.gl/eUBHFRiuJkLf4wSM6))
 
 All sweet tooths should not miss amazing Polish doughnuts. You will explore quality and flavors which are in different league from the polish doughnut chains.
+
+**Biedronka** <br> For snack, sweets and groceries for local prices, Biedronka (Ladybug) is the store-to-go!
 
 Attractions
 ------
