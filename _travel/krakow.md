@@ -14,6 +14,10 @@ Direct bus, operated by <a href="https://global.flixbus.com/">Flixbus</a>
 
 Price: ~ 12-20€
 
+Route from train station tunnel to the bus station:
+
+![route](../../images/krakow_video.mp4)
+
 Restaurants
 ------
 **Milkbar Tomasza** ([Google maps](https://maps.app.goo.gl/16jyWWM4bF68pULcA))
