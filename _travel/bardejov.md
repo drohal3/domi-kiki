@@ -38,5 +38,3 @@ Take the yellow bus. Buy ticket from driver - [schedule](https://cp.sk/bardejov/
 spa town
 Take the yellow bus. Buy ticket from driver -
 [schedule](https://cp.sk/bardejov/spojenie/vysledky/?date=13.06.2025&time=12:00&f=SLOVENSK%C3%81-STANICA&fc=179003&t=BARDEJOV.K%C3%9APELE&tc=179003)
-
-Ask us for help with public transport to reach those
