@@ -16,7 +16,7 @@ Open on weekdays
 
 For beer or Kofola only, there is a pub next door (the same owner)
 
-**Tvoj den** ([Google maps](https://maps.app.goo.gl/6VYtdQDEfaaaKEEc8))
+**[Tvoj den](https://www.tvojden.sk/en/home/)** ([Google maps](https://maps.app.goo.gl/6VYtdQDEfaaaKEEc8))
 <br>
 The best cheesecakes, coffee and other drinks!
 
